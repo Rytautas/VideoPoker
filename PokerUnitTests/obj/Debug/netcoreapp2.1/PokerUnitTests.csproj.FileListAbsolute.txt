@@ -1,0 +1,17 @@
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\PokerUnitTests.deps.json
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\PokerUnitTests.runtimeconfig.json
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\PokerUnitTests.runtimeconfig.dev.json
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\PokerUnitTests.dll
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\PokerUnitTests.pdb
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\VideoPoker.dll
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\bin\Debug\netcoreapp2.1\VideoPoker.pdb
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\obj\Debug\netcoreapp2.1\PokerUnitTests.csprojAssemblyReference.cache
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\obj\Debug\netcoreapp2.1\PokerUnitTests.csproj.CoreCompileInputs.cache
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\obj\Debug\netcoreapp2.1\PokerUnitTests.AssemblyInfoInputs.cache
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\obj\Debug\netcoreapp2.1\PokerUnitTests.AssemblyInfo.cs
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\obj\Debug\netcoreapp2.1\PokerUnitTests.csproj.CopyComplete
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\obj\Debug\netcoreapp2.1\PokerUnitTests.dll
+D:\Programming\Visma\Atranka_VideoPoker\PokerUnitTests\obj\Debug\netcoreapp2.1\PokerUnitTests.pdb
