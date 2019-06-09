@@ -64,7 +64,6 @@ namespace VideoPoker
                     return "You do not have anything. Better luck next time. Your Prize: 0";
                 }
             }
-            return "";
         }
 
         public bool isPair(List<Card> hand)

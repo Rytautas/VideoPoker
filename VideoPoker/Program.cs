@@ -41,7 +41,7 @@ namespace VideoPoker
                             response = Console.ReadLine();
                             try
                             {
-                                if (regex.IsMatch(response))
+                                if (regex.IsMatch(response) && response.Length < 10)
                                 {
                                     string[] values = response.Split(new char[0]);
                                     indexes = Array.ConvertAll(values, s => int.Parse(s)).ToList();
