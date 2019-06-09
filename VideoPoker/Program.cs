@@ -10,7 +10,7 @@ namespace VideoPoker
         static void Main(string[] args)
         {
             Evaluator evaluator = new Evaluator();
-            Regex regex = new Regex(@"^[1-5]\s?([1-5]\s*)*$");
+            Regex regex = new Regex(@"^[1-5](\s[1-5])*$");
             Console.WriteLine("Welcome to video poker!");
             while(true)
             {
@@ -44,7 +44,7 @@ namespace VideoPoker
                                 if (regex.IsMatch(response) && response.Length < 10)
                                 {
                                     string[] values = response.Split(new char[0]);
-                                    indexes = Array.ConvertAll(values, s => int.Parse(s)).ToList();
+                                    indexes = Array.ConvertAll(values, s => int.Parse(s)).Distinct().ToList();
                                     hand = Deck.changeCards(hand, indexes);
                                     Console.WriteLine("You have the following cards:");
                                     i = 0;

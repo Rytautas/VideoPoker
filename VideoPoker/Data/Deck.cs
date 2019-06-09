@@ -35,7 +35,7 @@ namespace VideoPoker
 
         public static List<Card> changeCards(List<Card> hand, List<int> indexes)
         {
-            foreach(int index in indexes.OrderByDescending(v => v))
+            foreach (int index in indexes.OrderByDescending(v => v))
             {
                 hand.RemoveAt(index-1);
             }
